@@ -1,0 +1,6 @@
+- 🤝 Hi, I’m @MoonyGames (Sergey Bogatov)
+- 🪕🎺 I’m interested in gamedev, music and art
+- 🌱 I’m currently learning C#, C++, Unity and Unreal Engine
+- 👨🏻‍💻 I'm currently working on "file547" (Moony Games) and "Iferus" (Duga Games)
+- 💞️ I’m looking to collaborate on some game projects
+- 📫 How to reach me: Telegram - @seeeergey, E-mail - @moonygamesstudio@gmail.com
